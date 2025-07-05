@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 local_s3
-reports/
+reports/*
 # C extensions
 *.so
 models/model.pkl
