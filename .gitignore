@@ -5,7 +5,8 @@ local_s3
 reports/
 # C extensions
 *.so
-models/
+models/model.pkl
+models/vectorizer.pkl
 cred.txt
 
 # Distribution / packaging
