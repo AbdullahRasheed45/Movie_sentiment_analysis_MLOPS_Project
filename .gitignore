@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 local_s3
-reports/*
+reports/figures
+reports/experiment_info.json
+reports/metrics.json
+
 # C extensions
 *.so
 models/model.pkl
